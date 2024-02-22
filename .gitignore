@@ -1,0 +1,23 @@
+# Node.js dependencies
+node_modules/
+
+# Compiled output
+dist/
+
+# Package lock file
+package-lock.json
+
+# IDE files
+.idea/
+.vscode/
+
+# Compiled TypeScript files (if applicable)
+*.js
+*.js.map
+
+# Build configuration files
+webpackage.config
+
+# Optional: Logs and debugging files
+*.log
+debug.log
